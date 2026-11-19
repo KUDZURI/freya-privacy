@@ -6,7 +6,7 @@ title: Freya for Chrome — Privacy Policy
 
 **Last updated:** November 19, 2026
 
-This policy applies to the Freya extension for Google Chrome. The extension is provided by kudzuri@gmail.com and connects Chrome to the Freya desktop software so users can select web page elements and run browser automation workflows.
+This policy applies to the Freya extension for Google Chrome. The extension is provided by SWAGOR and connects Chrome to the Freya desktop software so users can select web page elements and run browser automation workflows.
 
 ## Data the extension handles
 
